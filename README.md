@@ -29,6 +29,8 @@ docker run --rm -it -v ~/host/caminho/absoluto:/app sre-intern-test
 
 :warning: Lembre-se de substituir o path `~/host/caminho/absoluto` 
 
+:warning: Não se esqueça de colocar `:/ app sre-intern-test` pois é o nome do container
+
 ## Demonstração de saida
 No arquivo `output.json` na raiz do projeto (`sre-intern-test`):
 ```
